@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.analysis.extraPaths": [
+        "./venv/handlers/take.py",
+        "venv/handlers/handlers1.py",
+        "venv/handlers/game.py"
+    ]
+    
+}
